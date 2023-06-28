@@ -1,31 +1,30 @@
 # Designing-Web-Applications
 
-## **Opis:**
-Designing-Web-Applications to repozytorium poświęcone projektowaniu interfejsów użytkownika oraz tworzeniu aplikacji internetowych. Znajdziesz tutaj przykładowe projekty, materiały edukacyjne i narzędzia związane z projektowaniem i tworzeniem funkcjonalnych i atrakcyjnych aplikacji internetowych.
+## **Description:**
+Designing-Web-Applications is a repository dedicated to designing user interfaces and developing web applications. Here you will find example projects, educational materials and tools related to the design and development of functional and attractive web applications.
 
-## **Struktura Repozytorium:**
-/Projects: Ten folder zawiera różne projekty, w których wykorzystuje się projektowanie aplikacji internetowych. Każdy projekt posiada swój własny folder z opisem, plikami projektowymi i przykładowym kodem.
+## **Repository Structure:**
+/Projects: This folder contains various projects where web development is used. Each project has its own folder with description, project files and sample code.
 
-/Lab: W tym folderze znajdują się materiały edukacyjne, takie jak prezentacje, artykuły i tutoriale, które pomogą Ci w projektowaniu i tworzeniu aplikacji internetowych.
+/Lab: This folder contains educational materials such as presentations, articles, and tutorials to help you design and develop web applications.
 
-/Courses: Tutaj znajdują się przydatne narzędzia i frameworki, które mogą ułatwić proces projektowania i tworzenia aplikacji internetowych.
+/Courses: Here are useful tools and frameworks that can ease the process of designing and developing web applications.
 
-## **Jak zacząć:**
+## **How ​​to start:**
 
-Sklonuj repozytorium na swój lokalny komputer:
+Clone the repository to your local computer:
 ```
 git clone https://github.com/dawidolko/Designing-Web-Applications.git
 ```
 
-Przeglądaj dostępne projekty, materiały i narzędzia w odpowiednich folderach.
+Browse available projects, materials and tools in their respective folders.
 
-Wykorzystaj dostępne zasoby i narzędzia, aby projektować i tworzyć funkcjonalne i atrakcyjne aplikacje internetowe.
+Use available resources and tools to design and build functional and attractive web applications.
 
-## **Wymagania systemowe**
-Aby rozpocząć projektowanie aplikacji internetowych, będziesz potrzebować edytora kodu HTML, CSS oraz narzędzi do budowania aplikacji internetowych, takich jak frameworki JavaScript czy narzędzia do zarządzania zależnościami. Upewnij się, że masz zainstalowane wymagane oprogramowanie zgodnie z preferencjami i potrzebami projektu.
+## **System requirements**
+To start designing web applications, you'll need an HTML editor, CSS code editor, and tools for building web applications, such as JavaScript frameworks and dependency management tools. Make sure you have the required software installed according to your project preferences and needs.
 
-## **Wkład i Wsparcie**
-Jeśli chcesz przyczynić się do tego repozytorium, możesz zgłaszać problemy, tworzyć pull requesty lub udostępniać swoje własne projekty związane z projektowaniem aplikacji internetowych. Wszelkie wkłady są mile widziane!
+## **Contributions and Support**
+If you want to contribute to this repository, you can report issues, create pull requests or share your own web development projects. Any contributions are welcome!
 
-Jeśli masz pytania lub potrzebujesz pomocy, skontaktuj się ze mną poprzez e-mail lub przez platformę GitHub.
-
+If you have any questions or need help, please contact me via email or GitHub.
