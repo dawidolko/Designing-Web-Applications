@@ -14,7 +14,7 @@ Designing-Web-Applications to repozytorium poświęcone projektowaniu interfejs�
 
 Sklonuj repozytorium na swój lokalny komputer:
 ```
-git clone https://github.com/twojenazwauzytkownika/Designing-Web-Applications.git
+git clone https://github.com/dawidolko/Designing-Web-Applications.git
 ```
 
 Przeglądaj dostępne projekty, materiały i narzędzia w odpowiednich folderach.
