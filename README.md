@@ -8,8 +8,6 @@ Designing-Web-Applications is a repository dedicated to designing user interface
 
 /Lab: This folder contains educational materials such as presentations, articles, and tutorials to help you design and develop web applications.
 
-/Courses: Here are useful tools and frameworks that can ease the process of designing and developing web applications.
-
 ## **How ​​to start:**
 
 Clone the repository to your local computer:
