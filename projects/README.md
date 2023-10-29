@@ -1,24 +1,24 @@
-# Projekty związane z designem aplikacji internetowych
-Witaj w świecie projektów związanych z designem aplikacji internetowych! Ten zbiór projektów oferuje różnorodne i zaawansowane przykłady pracy nad designem interaktywnych i intuicyjnych interfejsów dla aplikacji webowych. Niezależnie od Twojego poziomu zaawansowania w projektowaniu, te projekty stanowią doskonałą okazję do rozwijania umiejętności w dziedzinie designu aplikacji internetowych i zdobywania praktycznego doświadczenia.
+# Projects on web application design
+Welcome to the world of web application design related projects! Ten functions available and available for use on interactive projects and those equipped with interfaces for web applications. Software from registry entry, these files contain bugs to develop permissions in web application projects and gain hands-on experience.
 
-## Dlaczego warto uczestniczyć w tych projektach?
-Rozwijanie umiejętności projektowania: Projekty skupiają się na różnych aspektach projektowania interfejsów dla aplikacji internetowych, od tworzenia wireframe'ów i prototypów po optymalizację użyteczności i dostępności, co pozwoli Ci rozwijać swoje umiejętności w dziedzinie designu aplikacji.
+## Why should you participate in these projects?
+Developing Design Capabilities: The projects cover various aspects of designing interfaces for web applications, from creating wireframes and prototypes to optimal functional and functional configuration, which allows you to enhance your skills in the area of ​​application design.
 
-Zastosowanie w praktyce: Projekty mają na celu pokazać Ci, jak wykorzystać teoretyczne założenia designu w praktyce. Będziesz pracować nad projektami z różnych branż, takich jak e-commerce, zdrowie, finanse, edukacja, technologia i wiele innych, co pozwoli Ci zdobyć doświadczenie w różnych kontekstach i zrozumieć potrzeby różnych użytkowników.
+Application in practice: Projects are intended to be applied, such as the practical premise of design in practice. We will work on projects in various industries such as e-commerce, health, finance, education, technology and many others, which will allow you to gain experience in different contexts and take into account the applications of different users.
 
-Skupienie na UX/UI: Projekty skupiają się na aspektach User Experience (UX) i User Interface (UI), co pozwoli Ci tworzyć aplikacje, które zapewniają pozytywne doświadczenia użytkownikom i są estetyczne oraz intuicyjne w obsłudze.
+Focus on UX/UI: Designs focus on User Experience (UX) and User Interface (UI) aspects, allowing you to create applications that are derived from user experience, administration and past use.
 
-Tworzenie interaktywnych prototypów: W trakcie prac nad projektami będziesz tworzyć interaktywne prototypy, które pozwolą Ci przetestować swoje projekty i uzyskać opinie użytkowników przed pełną implementacją.
+Create interactive prototypes: As you work on your designs, you'll create interactive prototypes that allow you to test your designs and get user feedback before full implementation.
 
-## Przykładowe projekty:
-Aplikacja do planowania budżetu: Zaprojektuj interfejs dla aplikacji internetowej, która pozwoli użytkownikom na planowanie i śledzenie swojego budżetu, zarządzanie wydatkami i oszczędnościami w sposób przejrzysty i intuicyjny.
+## Sample projects:
+Budget planning application: Design an interface for a web application that allows users to plan and track their budget, manage expenses and savings in a transparent and intuitive way.
 
-Platforma do zdalnej edukacji: Opracuj design interfejsu dla platformy e-learningowej, która umożliwi użytkownikom dostęp do kursów, materiałów edukacyjnych i narzędzi do nauki online w sposób przystępny i zachęcający.
+Remote learning platform: Develop an interface design for an e-learning platform that allows users to access courses, learning materials and online learning tools in an accessible and engaging way.
 
-Aplikacja zdrowotna i fitness: Stwórz interfejs dla aplikacji, która pozwoli użytkownikom na śledzenie ich aktywności fizycznej, diety, stanu zdrowia i dostarczy im cennych wskazówek oraz motywacji.
+Health and fitness app: Create an interface for an app that will allow users to track their physical activity, diet, health status and provide them with valuable tips and motivation.
 
-Portal e-commerce: Zaprojektuj interfejs dla sklepu internetowego, który będzie przyciągać uwagę klientów, oferować łatwą nawigację i wygodne zakupy online.
+E-commerce portal: Design an interface for your online store that will attract customers' attention, offer easy navigation and convenient online shopping.
 
-Aplikacja społecznościowa: Opracuj design interfejsu dla aplikacji społecznościowej, która umożliwi użytkownikom komunikację, dzielenie się treściami i tworzenie przyjaznej społeczności online.
+Social App: Develop an interface design for a social app that allows users to communicate, share content and create a friendly online community.
 
-Zapraszamy do uczestnictwa w projektach związanych z designem aplikacji internetowych i doświadczania satysfakcji z tworzenia interfejsów, które zapewniają pozytywne wrażenia użytkownikom i wnoszą wartość do ich codziennego użytkowania. Niech te projekty stanowią inspirację do tworzenia nowoczesnych i funkcjonalnych aplikacji, które przyciągają uwagę użytkowników i spełniają ich oczekiwania.
+We invite you to participate in projects related to the design of web applications and experience the satisfaction of creating interfaces that provide positive user experiences and add value to their everyday use. Let these projects serve as an inspiration to create modern and functional applications that attract users' attention and meet their expectations.
